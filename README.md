@@ -1,4 +1,4 @@
-### Hi there 👋
+# https://ai-modernprogramming.github.io
 
 <!--
 **ai-modernprogramming/ai-modernprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
